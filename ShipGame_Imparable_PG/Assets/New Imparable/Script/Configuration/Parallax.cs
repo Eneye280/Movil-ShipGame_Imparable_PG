@@ -6,9 +6,9 @@ namespace Unstoppable
     {
         [Header("City and Cloud")]
         public Transform[] BloqueCiudad;
-        public Material materialNube;
-        [SerializeField] private float velocidadCiuadad;
-        [SerializeField] private float velocidadNube;
+        public Material materialCloud;
+        [SerializeField] private float velocityCity;
+        [SerializeField] private float velocityCloud;
 
         public void CityAndCloud()
         {
@@ -16,7 +16,7 @@ namespace Unstoppable
             {
                 for (int i = 0; i < BloqueCiudad.Length; i++)
                 {
-                    BloqueCiudad[i].Translate(-Vector3.forward * velocidadCiuadad * Time.deltaTime);
+                    BloqueCiudad[i].Translate(-Vector3.forward * velocityCity * Time.deltaTime);
 
                     if (BloqueCiudad[i].position.z < -67.815f)
                     {
@@ -26,9 +26,9 @@ namespace Unstoppable
                     }
                 }
 
-                Vector2 newOffset = materialNube.mainTextureOffset;
-                newOffset.y -= velocidadNube * Time.deltaTime;
-                materialNube.mainTextureOffset = newOffset;
+                Vector2 newOffset = materialCloud.mainTextureOffset;
+                newOffset.y -= velocityCloud * Time.deltaTime;
+                materialCloud.mainTextureOffset = newOffset;
 
             }
         }

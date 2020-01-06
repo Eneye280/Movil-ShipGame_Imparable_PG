@@ -6,6 +6,7 @@ public class Boundary
 {
     public float xMin, xMax, zMin, zMax;
 }
+
 namespace Unstoppable.Player
 {
     [RequireComponent(typeof(Rigidbody))]
@@ -24,7 +25,6 @@ namespace Unstoppable.Player
 
         public void Movement()
         {
-
             float moveHorizontal = CrossPlatformInputManager.GetAxis("Horizontal");
             float moveVertical = CrossPlatformInputManager.GetAxis("Vertical");
 

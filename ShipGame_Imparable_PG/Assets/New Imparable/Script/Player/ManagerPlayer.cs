@@ -1,9 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace Unstoppable.Player
 {
+    [RequireComponent(typeof(MovementPlayer), typeof(HealthPlayer))]
+    [RequireComponent(typeof(BoxCollider), typeof(Rigidbody))]
     public class ManagerPlayer : MonoBehaviour
     {
         private HealthPlayer healthPlayer;
@@ -18,7 +18,6 @@ namespace Unstoppable.Player
         {
             healthPlayer.Death();
             movementPlayer.Movement();
-            
         }
      }
 }
