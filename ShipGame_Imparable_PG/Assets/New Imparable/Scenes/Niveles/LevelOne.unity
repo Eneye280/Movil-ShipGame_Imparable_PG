@@ -377,6 +377,37 @@ MonoBehaviour:
   Text_Color_Inactive: {r: 1, g: 1, b: 1, a: 1}
   TextStyle_Inactive: 1
   Background_Color_Inactive: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 1}
+--- !u!1 &279623029
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 279623030}
+  m_Layer: 0
+  m_Name: Parameter's
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &279623030
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 279623029}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 778259883}
+  m_Father: {fileID: 492138240}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &354191768
 GameObject:
   m_ObjectHideFlags: 0
@@ -793,6 +824,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 706701276}
   m_CullTransparentMesh: 0
+--- !u!1 &778259882
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 778259883}
+  - component: {fileID: 778259884}
+  m_Layer: 0
+  m_Name: Shield
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &778259883
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 778259882}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 279623030}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &778259884
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 778259882}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 767.0331
+  m_Center: {x: 0, y: 0, z: -58.488365}
 --- !u!1 &939528777
 GameObject:
   m_ObjectHideFlags: 0
@@ -2028,7 +2103,22 @@ PrefabInstance:
     - target: {fileID: 5242626963626814655, guid: 3580cd706a2685542a1948332446952b,
         type: 3}
       propertyPath: m_Name
-      value: Ship Five
+      value: (Player) Ship Five
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641454272365890631, guid: 3580cd706a2685542a1948332446952b,
+        type: 3}
+      propertyPath: Background_Color.r
+      value: 0.7264151
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641454272365890631, guid: 3580cd706a2685542a1948332446952b,
+        type: 3}
+      propertyPath: Background_Color.b
+      value: 0.6136693
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641454272365890631, guid: 3580cd706a2685542a1948332446952b,
+        type: 3}
+      propertyPath: Background_Color.g
+      value: 0.3179779
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3580cd706a2685542a1948332446952b, type: 3}

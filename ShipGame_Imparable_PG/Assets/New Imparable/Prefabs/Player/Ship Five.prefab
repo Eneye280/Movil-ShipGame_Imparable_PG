@@ -130,6 +130,7 @@ GameObject:
   - component: {fileID: 8863799329624834583}
   - component: {fileID: 3154457815916014798}
   - component: {fileID: 5123158965451709921}
+  - component: {fileID: 5641454272365890630}
   m_Layer: 0
   m_Name: Canvas 3D
   m_TagString: Untagged
@@ -200,6 +201,25 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+--- !u!114 &5641454272365890630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 855756091904386659}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8654cb1cc0119e24faa6c0bfe2218a32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Text_Color: {r: 0, g: 0, b: 0, a: 1}
+  TextStyle: 1
+  Background_Color: {r: 0.9705416, g: 0.5536846, b: 0.9716981, a: 1}
+  Custom_Inactive_Colors: 1
+  Text_Color_Inactive: {r: 1, g: 1, b: 1, a: 1}
+  TextStyle_Inactive: 1
+  Background_Color_Inactive: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 1}
 --- !u!1 &859020215235544639
 GameObject:
   m_ObjectHideFlags: 0
@@ -761,6 +781,7 @@ GameObject:
   - component: {fileID: 2934419870272064639}
   - component: {fileID: 3135768553195934469}
   - component: {fileID: 8572528272872267358}
+  - component: {fileID: 5641454272365890631}
   m_Layer: 0
   m_Name: Ship Five
   m_TagString: Untagged
@@ -858,6 +879,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0f2051b73652fa41bfc685ab5ff497c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &5641454272365890631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5242626963626814655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8654cb1cc0119e24faa6c0bfe2218a32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Text_Color: {r: 0, g: 0, b: 0, a: 1}
+  TextStyle: 1
+  Background_Color: {r: 0.718933, g: 0, b: 0.754717, a: 1}
+  Custom_Inactive_Colors: 1
+  Text_Color_Inactive: {r: 1, g: 1, b: 1, a: 1}
+  TextStyle_Inactive: 1
+  Background_Color_Inactive: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 1}
 --- !u!1 &6094216222188554035
 GameObject:
   m_ObjectHideFlags: 0
