@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/New Imparable/Scenes/Niveles/LevelOne.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
