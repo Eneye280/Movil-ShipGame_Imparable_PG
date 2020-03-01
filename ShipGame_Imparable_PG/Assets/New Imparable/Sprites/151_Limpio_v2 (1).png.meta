@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 9988240f7d1a63a409dc1a6156ce80c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1100420828921524809
+    second: 151_Limpio_v2 (1)_0
+  - first:
+      213: 2660435173001826524
+    second: 151_Limpio_v2 (1)_1
+  - first:
+      213: 4003916547470516081
+    second: 151_Limpio_v2 (1)_2
+  - first:
+      213: -7976518769170547748
+    second: 151_Limpio_v2 (1)_3
+  - first:
+      213: 6295424944738934992
+    second: 151_Limpio_v2 (1)_4
+  - first:
+      213: 8204625504136255765
+    second: 151_Limpio_v2 (1)_5
+  - first:
+      213: 4215126504663392874
+    second: 151_Limpio_v2 (1)_6
+  - first:
+      213: 3141949006127933078
+    second: 151_Limpio_v2 (1)_7
+  - first:
+      213: 2869311589677002023
+    second: 151_Limpio_v2 (1)_8
+  - first:
+      213: 5117188707324329937
+    second: 151_Limpio_v2 (1)_9
+  - first:
+      213: 516646169285614529
+    second: 151_Limpio_v2 (1)_10
+  - first:
+      213: -2947617425322063490
+    second: 151_Limpio_v2 (1)_11
+  - first:
+      213: -5207218356515773867
+    second: 151_Limpio_v2 (1)_12
+  - first:
+      213: -8276552379226353697
+    second: 151_Limpio_v2 (1)_13
+  - first:
+      213: 7268817545556301876
+    second: 151_Limpio_v2 (1)_14
+  - first:
+      213: -3138527597388688459
+    second: 151_Limpio_v2 (1)_15
+  - first:
+      213: -1581894508614872914
+    second: 151_Limpio_v2 (1)_16
+  - first:
+      213: 9216688442627201488
+    second: 151_Limpio_v2 (1)_17
+  - first:
+      213: 192097250736471102
+    second: 151_Limpio_v2 (1)_18
+  - first:
+      213: 1673646330715530106
+    second: 151_Limpio_v2 (1)_19
+  - first:
+      213: -1279157931642904818
+    second: 151_Limpio_v2 (1)_20
+  - first:
+      213: -4739825666382467835
+    second: 151_Limpio_v2 (1)_21
+  - first:
+      213: 8798257772413273118
+    second: 151_Limpio_v2 (1)_22
+  - first:
+      213: -4035089497326645527
+    second: 151_Limpio_v2 (1)_23
+  - first:
+      213: -6794067920488354742
+    second: 151_Limpio_v2 (1)_24
+  - first:
+      213: 2101544858112329450
+    second: 151_Limpio_v2 (1)_25
+  - first:
+      213: 9076016351357835430
+    second: 151_Limpio_v2 (1)_26
+  - first:
+      213: 5181694145644296903
+    second: 151_Limpio_v2 (1)_27
+  - first:
+      213: -6004840461721380576
+    second: 151_Limpio_v2 (1)_28
+  - first:
+      213: -2320741745565217557
+    second: 151_Limpio_v2 (1)_29
+  - first:
+      213: -893615019110006960
+    second: 151_Limpio_v2 (1)_30
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 151_Limpio_v2 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1852
+        width: 2162
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7a5bd076bd4190800000000000000
+      internalID: -7976518769170547748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d17e8de718e3a5419d907b45522db73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

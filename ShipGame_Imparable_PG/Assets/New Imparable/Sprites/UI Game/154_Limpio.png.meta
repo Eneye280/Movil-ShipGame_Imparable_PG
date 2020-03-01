@@ -1,0 +1,1711 @@
+fileFormatVersion: 2
+guid: aee35b0633ef12e4d9479c890231fe33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4680360412012289223
+    second: 154_Limpio_0
+  - first:
+      213: -6240633240286554205
+    second: 154_Limpio_1
+  - first:
+      213: -2360931148311224511
+    second: 154_Limpio_2
+  - first:
+      213: -7477724610137248223
+    second: 154_Limpio_3
+  - first:
+      213: 7547104771322267432
+    second: 154_Limpio_4
+  - first:
+      213: -2680921967879744187
+    second: 154_Limpio_5
+  - first:
+      213: -2476325845816820238
+    second: 154_Limpio_6
+  - first:
+      213: 3577588198047249998
+    second: 154_Limpio_7
+  - first:
+      213: -8614805006565007482
+    second: 154_Limpio_8
+  - first:
+      213: -3762151428107864451
+    second: 154_Limpio_9
+  - first:
+      213: 3149899053467063357
+    second: 154_Limpio_10
+  - first:
+      213: 4686041450860850594
+    second: 154_Limpio_11
+  - first:
+      213: -2300269121902798609
+    second: 154_Limpio_12
+  - first:
+      213: 3488292458022587128
+    second: 154_Limpio_13
+  - first:
+      213: 5073437027739402485
+    second: 154_Limpio_14
+  - first:
+      213: -5673966093474085577
+    second: 154_Limpio_15
+  - first:
+      213: -4901829940350604523
+    second: 154_Limpio_16
+  - first:
+      213: -488024940756128283
+    second: 154_Limpio_17
+  - first:
+      213: -1300024272793652581
+    second: 154_Limpio_18
+  - first:
+      213: -8476700335268179085
+    second: 154_Limpio_19
+  - first:
+      213: -2300632703132990117
+    second: 154_Limpio_20
+  - first:
+      213: 7298853466566073218
+    second: 154_Limpio_21
+  - first:
+      213: -6770849197952104837
+    second: 154_Limpio_22
+  - first:
+      213: -3827037072800044032
+    second: 154_Limpio_23
+  - first:
+      213: -6423471673124599872
+    second: 154_Limpio_24
+  - first:
+      213: -7550663266692558328
+    second: 154_Limpio_25
+  - first:
+      213: 8422228298644477180
+    second: 154_Limpio_26
+  - first:
+      213: 2168412126565819438
+    second: 154_Limpio_27
+  - first:
+      213: 4209850318764994207
+    second: 154_Limpio_28
+  - first:
+      213: 7171446595030429191
+    second: 154_Limpio_29
+  - first:
+      213: 8885966358261771476
+    second: 154_Limpio_30
+  - first:
+      213: -6204706157868296735
+    second: 154_Limpio_31
+  - first:
+      213: -7294233639665801028
+    second: 154_Limpio_32
+  - first:
+      213: 4297157516335208238
+    second: 154_Limpio_33
+  - first:
+      213: 9159862754667331566
+    second: 154_Limpio_34
+  - first:
+      213: 6321230815506265281
+    second: 154_Limpio_35
+  - first:
+      213: -531277991873813831
+    second: 154_Limpio_36
+  - first:
+      213: -4923821677682125556
+    second: 154_Limpio_37
+  - first:
+      213: 7771893901779263469
+    second: 154_Limpio_38
+  - first:
+      213: 6124009071145451227
+    second: 154_Limpio_39
+  - first:
+      213: -7443551892043579596
+    second: 154_Limpio_40
+  - first:
+      213: -6162018629017409725
+    second: 154_Limpio_41
+  - first:
+      213: -1247784641374430
+    second: 154_Limpio_42
+  - first:
+      213: -611756799876847701
+    second: 154_Limpio_43
+  - first:
+      213: 538852133016192649
+    second: 154_Limpio_44
+  - first:
+      213: -1871321604128088137
+    second: 154_Limpio_45
+  - first:
+      213: 2775882779143189495
+    second: 154_Limpio_46
+  - first:
+      213: -1176672292765225262
+    second: 154_Limpio_47
+  - first:
+      213: 7576984883602165519
+    second: 154_Limpio_48
+  - first:
+      213: 6288135790143530206
+    second: 154_Limpio_49
+  - first:
+      213: -7035291909724433343
+    second: 154_Limpio_50
+  - first:
+      213: -352051746314296201
+    second: 154_Limpio_51
+  - first:
+      213: -3541411525489252592
+    second: 154_Limpio_52
+  - first:
+      213: 281271165042113968
+    second: 154_Limpio_53
+  - first:
+      213: 7711893314792977742
+    second: 154_Limpio_54
+  - first:
+      213: 2658756640193262538
+    second: 154_Limpio_55
+  - first:
+      213: -8284676252851705025
+    second: 154_Limpio_56
+  - first:
+      213: -7830081535114023675
+    second: 154_Limpio_57
+  - first:
+      213: 7373928027904171424
+    second: 154_Limpio_58
+  - first:
+      213: -7795592059273056423
+    second: 154_Limpio_59
+  - first:
+      213: -5717617022768199669
+    second: 154_Limpio_60
+  - first:
+      213: 3699879861828782998
+    second: 154_Limpio_61
+  - first:
+      213: -423720410619861799
+    second: 154_Limpio_62
+  - first:
+      213: 8314366576094136687
+    second: 154_Limpio_63
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 154_Limpio_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3719
+        width: 422
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e43db0050c0fb0800000000000000
+      internalID: -4680360412012289223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_1
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 3719
+        width: 426
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7993bd121d469a0800000000000000
+      internalID: -6240633240286554205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_2
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3719
+        width: 425
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f11cd11a94c3fd0800000000000000
+      internalID: -2360931148311224511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_3
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 3719
+        width: 426
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ea294f519c93890800000000000000
+      internalID: -7477724610137248223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_4
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 3719
+        width: 426
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c151adc3bcb860800000000000000
+      internalID: 7547104771322267432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_5
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 3719
+        width: 431
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5459cf1aca37bcad0800000000000000
+      internalID: -2680921967879744187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_6
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3719
+        width: 431
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd38fb63c252add0800000000000000
+      internalID: -2476325845816820238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_7
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 3719
+        width: 431
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e467c31e28526a130800000000000000
+      internalID: 3577588198047249998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3196
+        width: 422
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f9f6e5d70127880800000000000000
+      internalID: -8614805006565007482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3196
+        width: 424
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f66875372acbc0800000000000000
+      internalID: -3762151428107864451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_10
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3196
+        width: 425
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345e301080b6bb20800000000000000
+      internalID: 3149899053467063357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_11
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 3196
+        width: 426
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad21513fd9280140800000000000000
+      internalID: 4686041450860850594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_12
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 3196
+        width: 426
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81f25cb6dc310e0800000000000000
+      internalID: -2300269121902798609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_13
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 3196
+        width: 431
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa4c114287e86030800000000000000
+      internalID: 3488292458022587128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_14
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3196
+        width: 431
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f088b4b818786640800000000000000
+      internalID: 5073437027739402485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_15
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 3196
+        width: 431
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735cdd266e50241b0800000000000000
+      internalID: -5673966093474085577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2667
+        width: 422
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b2708e3a339fbb0800000000000000
+      internalID: -4901829940350604523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2667
+        width: 424
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed23bce6ef2a39f0800000000000000
+      internalID: -488024940756128283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_18
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2667
+        width: 425
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92bfbccfc265fde0800000000000000
+      internalID: -1300024272793652581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_19
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2667
+        width: 426
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373d7e0e4f5bc5a80800000000000000
+      internalID: -8476700335268179085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_20
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 2667
+        width: 426
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b558c1beeb28210e0800000000000000
+      internalID: -2300632703132990117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_21
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 2666
+        width: 431
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b9c4e8e8cba4560800000000000000
+      internalID: 7298853466566073218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_22
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2667
+        width: 431
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b768358278c1902a0800000000000000
+      internalID: -6770849197952104837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_23
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 2667
+        width: 431
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca08d0f02a3eac0800000000000000
+      internalID: -3827037072800044032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2108
+        width: 422
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7cf9adb8e3bd6a0800000000000000
+      internalID: -6423471673124599872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2108
+        width: 424
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802133a93c7a63790800000000000000
+      internalID: -7550663266692558328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_26
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2108
+        width: 425
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf452f5c304c1e470800000000000000
+      internalID: 8422228298644477180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_27
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2108
+        width: 426
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24ea92275fb71e10800000000000000
+      internalID: 2168412126565819438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_28
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 2108
+        width: 426
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e6d876f846c6a30800000000000000
+      internalID: 4209850318764994207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_29
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 2107
+        width: 431
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e2976aea8168360800000000000000
+      internalID: 7171446595030429191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_30
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 2108
+        width: 431
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dca34ea25b415b70800000000000000
+      internalID: 8885966358261771476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_31
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 2108
+        width: 431
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d4949f9474e9a0800000000000000
+      internalID: -6204706157868296735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1559
+        width: 422
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8e307b62da5ca90800000000000000
+      internalID: -7294233639665801028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1559
+        width: 424
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e275f096ef192ab30800000000000000
+      internalID: 4297157516335208238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_34
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1559
+        width: 423
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff643f4ae5e1f70800000000000000
+      internalID: 9159862754667331566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_35
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1559
+        width: 426
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4f0857fe589b750800000000000000
+      internalID: 6321230815506265281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_36
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1559
+        width: 426
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e0613b7580a8f0800000000000000
+      internalID: -531277991873813831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_37
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1559
+        width: 431
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05936c85421babb0800000000000000
+      internalID: -4923821677682125556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1559
+        width: 424
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd39f83505bdb60800000000000000
+      internalID: 7771893901779263469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_39
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 1559
+        width: 422
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef4e6cdc9dcf450800000000000000
+      internalID: 6124009071145451227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1042
+        width: 422
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f3e87edf033b890800000000000000
+      internalID: -7443551892043579596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_41
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1042
+        width: 424
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347e31664bc1c7aa0800000000000000
+      internalID: -6162018629017409725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_42
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1042
+        width: 423
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227d1bf75219bfff0800000000000000
+      internalID: -1247784641374430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_43
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1042
+        width: 426
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba729668e6a9287f0800000000000000
+      internalID: -611756799876847701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_44
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1042
+        width: 426
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98644e6f8236a7700800000000000000
+      internalID: 538852133016192649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_45
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1042
+        width: 431
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf5e6d6aeab706e0800000000000000
+      internalID: -1871321604128088137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_46
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1042
+        width: 424
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f334fc2eaae58620800000000000000
+      internalID: 2775882779143189495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_47
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 1042
+        width: 422
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de2fa4b8ce9bafe0800000000000000
+      internalID: -1176672292765225262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 422
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8c976b9bd62960800000000000000
+      internalID: 7576984883602165519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 522
+        width: 424
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4ece66f22f34750800000000000000
+      internalID: 6288135790143530206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_50
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 522
+        width: 423
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14412bd584f9d5e90800000000000000
+      internalID: -7035291909724433343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_51
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 522
+        width: 426
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774616e4dc24d1bf0800000000000000
+      internalID: -352051746314296201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_52
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 522
+        width: 426
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0172db31bf06adec0800000000000000
+      internalID: -3541411525489252592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_53
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 522
+        width: 431
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd35e562a647e300800000000000000
+      internalID: 281271165042113968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_54
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 522
+        width: 424
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45f1f54c16260b60800000000000000
+      internalID: 7711893314792977742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_55
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 522
+        width: 422
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac33eead31dc5e420800000000000000
+      internalID: 2658756640193262538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 422
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3be8a597dae60d80800000000000000
+      internalID: -8284676252851705025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_57
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 0
+        width: 424
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dee215456f55390800000000000000
+      internalID: -7830081535114023675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_58
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 423
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad568ef874755660800000000000000
+      internalID: 7373928027904171424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_59
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 0
+        width: 426
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6c2d235e70d390800000000000000
+      internalID: -7795592059273056423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_60
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 0
+        width: 426
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08cc2c6c91f6a0b0800000000000000
+      internalID: -5717617022768199669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_61
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 0
+        width: 431
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0deba12d985330800000000000000
+      internalID: 3699879861828782998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 424
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4abe01884ae1af0800000000000000
+      internalID: -423720410619861799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154_Limpio_63
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 0
+        width: 422
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69c87c7950926370800000000000000
+      internalID: 8314366576094136687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bf89c774a4c3fc14c951664a0ffeb31c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
