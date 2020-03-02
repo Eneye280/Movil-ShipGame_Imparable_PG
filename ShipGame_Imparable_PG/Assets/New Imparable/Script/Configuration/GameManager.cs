@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using Unstoppable;
+using Unstoppable.Player;
 
 public class GameManager : MonoBehaviour
 {
@@ -20,16 +20,8 @@ public class GameManager : MonoBehaviour
             return gameManager;
         }
     }
-
-    [Header("Add Script")]
+    
     public Parallax parallax;
-
-    [Space(10)]
-    public utilitiesShip utility;
-    public enum utilitiesShip
-    {
-        fly, death
-    }
 
     private void Update()
     {

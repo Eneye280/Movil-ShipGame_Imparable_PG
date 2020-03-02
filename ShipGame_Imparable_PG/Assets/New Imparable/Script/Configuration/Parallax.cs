@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Unstoppable
+namespace Unstoppable.Player
 {
     public class Parallax : MonoBehaviour
     {
@@ -12,7 +12,7 @@ namespace Unstoppable
 
         public void CityAndCloud()
         {
-            if (GameManager.instance.utility == GameManager.utilitiesShip.fly)
+            if (ManagerPlayer.instance.attributesPlayer == ManagerPlayer.AttributesPlayer.fly)
             {
                 for (int i = 0; i < BloqueCiudad.Length; i++)
                 {
