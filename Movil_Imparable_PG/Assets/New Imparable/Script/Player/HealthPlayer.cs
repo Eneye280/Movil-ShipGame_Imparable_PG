@@ -22,9 +22,7 @@ namespace Unstoppable.Player
 
         public void OnTriggerEnter(Collider other)
         {
-            if (other.CompareTag("bulletEnemy") /*&& other.GetComponent<Bullet>().tipeBullet == TipeBullet.bulletLow
-                || other.GetComponent<Bullet>().tipeBullet == TipeBullet.bulletHalf
-                || other.GetComponent<Bullet>().tipeBullet == TipeBullet.bulletHigh*/)
+            if (other.CompareTag("bulletEnemy"))
             {
                 TakeDamage();
             }
