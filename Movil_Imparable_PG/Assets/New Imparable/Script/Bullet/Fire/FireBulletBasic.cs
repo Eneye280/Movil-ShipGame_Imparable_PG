@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 namespace Unstoppable
@@ -17,13 +16,13 @@ namespace Unstoppable
 
         private void Start()
         {
-            positionBulletBasic = this.transform;
+            positionBulletBasic = transform;
 
             for (int i = 0; i < countBulletBasic; i++)
             {
                 GameObject bullet = Instantiate(bulletBasic);
                 bulletBasicList.Add(bullet);
-                bullet.transform.parent = this.transform;
+                bullet.transform.parent = transform;
                 bullet.SetActive(false);
             }
 
